@@ -2,7 +2,6 @@
 
 Splitr is a full-stack Splitwise-style expense-splitting app. Users can track shared expenses, split bills equally or by percentage/exact amounts, settle up, and receive automated payment reminders and AI-generated spending insights. It's built with Next.js 15, Convex as the realtime backend/database, Clerk for authentication, Google Gemini for AI insights, Inngest for scheduled jobs, and Resend for transactional email.
 
-![Splitr](https://github.com/user-attachments/assets/11e138c4-efcf-4a85-8586-f2993da118d8)
 
 ---
 
@@ -225,7 +224,3 @@ The app is optimized for Vercel:
 No license file is provided in this repository. All rights reserved by the original authors unless a license is added.
 
 ---
-
-## Credits
-
-Originally built following the "Full Stack AI Splitwise Clone" tutorial — see the [walkthrough video](https://youtu.be/Ce7O3p7-YDI).
